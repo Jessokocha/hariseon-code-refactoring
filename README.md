@@ -14,9 +14,7 @@ The webpage layout is currently designed for desktop viewing only.
 
 Below is a screenshot of how the webpage is presented:
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+[![Webpage Screenshot](assets/images/screenshot.png)] (https://jessokocha.github.io/hariseon-code-refactoring/)
 
 ## Credits
 
@@ -25,6 +23,7 @@ Collaborators in this project included instructors, TAs, staff and tutor Abdulla
 ### Links Used
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
 https://choosealicense.com/
 
 ## License
