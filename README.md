@@ -14,7 +14,7 @@ The webpage layout is currently designed for desktop viewing only.
 
 Below is a screenshot of how the webpage is presented:
 
-[![Webpage Screenshot](assets/images/screenshot.png)] (https://jessokocha.github.io/hariseon-code-refactoring/)
+![Webpage Screenshot](assets/images/Horiseon-screenshot.png)
 
 ## Credits
 
